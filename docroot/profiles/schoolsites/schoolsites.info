@@ -1,0 +1,20 @@
+name = School Sites
+description = Installs and preps the default modules for a HCPSS school site.
+core = 7.x
+
+dependencies[] = ctools
+dependencies[] = libraries
+dependencies[] = views
+dependencies[] = date
+dependencies[] = entity
+dependencies[] = entityreference
+dependencies[] = inline_entity_form
+dependencies[] = email
+dependencies[] = telephone
+dependencies[] = link
+dependencies[] = token
+dependencies[] = token_filter
+dependencies[] = pathauto
+dependencies[] = exclude_node_title
+dependencies[] = media
+dependencies[] = feeds

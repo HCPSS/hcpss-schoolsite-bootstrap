@@ -1,0 +1,21 @@
+<?php
+/**
+ * @file
+ * Install, update and uninstall functions for the School Sites installation profile.
+ */
+
+
+ /**
+  * Implements hook_install().
+  *
+  * Performs actions to set up the site for this profile.
+  *
+  * @see system_install()
+  */
+
+function schoolsites_install() {
+   // Set the admin theme.
+   variable_set('admin_theme', 'shiny');
+   variable_set('node_admin_theme', 1);
+   variable_set('theme_default', 'hcpss_schoolsite_theme');
+}
