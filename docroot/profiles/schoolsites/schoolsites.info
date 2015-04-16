@@ -18,3 +18,5 @@ dependencies[] = pathauto
 dependencies[] = exclude_node_title
 dependencies[] = media
 dependencies[] = feeds
+dependencies[] = menu
+dependencies[] = taxonomy
