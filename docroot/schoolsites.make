@@ -32,9 +32,11 @@ projects[] = pathauto
 projects[] = exclude_node_title
 
 ; Media Management
+projects[] = file_entity
 projects[media][version] = "2.0-alpha4"
 
 ; Feeds: Importing and Management
+projects[] = job_scheduler
 projects[feeds][type] = "module"
 projects[feeds][download][type] = "git"
 projects[feeds][download][url] = "http://git.drupal.org/project/feeds.git"
