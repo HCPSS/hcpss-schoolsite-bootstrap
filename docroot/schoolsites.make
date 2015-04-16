@@ -32,7 +32,7 @@ projects[] = pathauto
 projects[] = exclude_node_title
 
 ; Media Management
-projects[media][version] = "7.x-2.0-alpha4"
+projects[media][version] = "2.0-alpha4"
 
 ; Feeds: Importing and Management
 projects[feeds][type] = "module"
