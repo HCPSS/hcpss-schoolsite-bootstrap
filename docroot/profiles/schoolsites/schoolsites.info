@@ -3,7 +3,7 @@ description = Installs and preps the default modules for a HCPSS school site.
 core = 7.x
 
 ; Core Modules
-dependencies[] = contextual_links
+dependencies[] = contextual
 dependencies[] = field_ui
 dependencies[] = menu
 dependencies[] = taxonomy
