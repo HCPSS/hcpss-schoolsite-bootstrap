@@ -12,6 +12,7 @@ projects[] = views
 
 ; Date-related Modules
 projects[] = date
+projects[] = calendar
 
 ; Entity-related Modules
 projects[] = entity

@@ -17,7 +17,12 @@ dependencies[] = views_ui
 
 ; Date
 dependencies[] = date
+dependencies[] = date_all_day
+dependencies[] = date_api
 dependencies[] = date_popup
+dependencies[] = date_tools
+dependencies[] = date_views
+dependencies[] = calendar
 
 ; Entities
 dependencies[] = entity
