@@ -4,8 +4,13 @@ core = 7.x
 
 ; Core Modules
 dependencies[] = contextual
+dependencies[] = dblog
 dependencies[] = field_ui
+dependencies[] = list
 dependencies[] = menu
+dependencies[] = number
+dependencies[] = search
+dependencies[] = shortcut
 dependencies[] = taxonomy
 dependencies[] = toolbar
 
