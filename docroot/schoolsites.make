@@ -17,6 +17,7 @@ projects[] = calendar
 ; Entity-related Modules
 projects[] = entity
 projects[] = entityreference
+projects[] = entity_view_mode
 projects[] = inline_entity_form
 
 ; Specific Fields

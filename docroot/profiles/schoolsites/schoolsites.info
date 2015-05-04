@@ -32,6 +32,7 @@ dependencies[] = calendar
 ; Entities
 dependencies[] = entity
 dependencies[] = entityreference
+dependencies[] = entity_view_mode
 dependencies[] = inline_entity_form
 
 ; Fields
