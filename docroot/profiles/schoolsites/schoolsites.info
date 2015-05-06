@@ -51,6 +51,9 @@ dependencies[] = addanother
 ; Site Search
 dependencies[] = google_appliance
 
+; Site Management
+dependencies[] = backup_migrate
+
 ; Media & Feeds
 dependencies[] = exclude_node_title
 dependencies[] = media
