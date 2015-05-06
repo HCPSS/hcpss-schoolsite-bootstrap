@@ -45,6 +45,9 @@ dependencies[] = pathauto
 dependencies[] = token
 dependencies[] = token_filter
 
+; Improved Authoring
+dependencies[] = addanother
+
 ; Media & Feeds
 dependencies[] = exclude_node_title
 dependencies[] = media

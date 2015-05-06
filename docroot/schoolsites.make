@@ -32,6 +32,7 @@ projects[] = pathauto
 
 ; Structured Content and Authoring
 projects[] = exclude_node_title
+projects[] = addanother
 
 ; Media Management
 projects[] = file_entity
