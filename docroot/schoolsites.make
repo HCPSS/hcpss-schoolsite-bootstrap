@@ -47,6 +47,9 @@ projects[feeds][download][url] = "http://git.drupal.org/project/feeds.git"
 projects[feeds][download][branch] = "7.x-2.x"
 projects[feeds][download][revision] = "45152d374e6660f04b1268db2618c7221604a5c6"
 
+; Site Search
+projects[] = google_appliance
+
 ; Themes
 projects[] = shiny
 projects[hcpss_schoolsite_theme][type] = theme

@@ -48,6 +48,9 @@ dependencies[] = token_filter
 ; Improved Authoring
 dependencies[] = addanother
 
+; Site Search
+dependencies[] = google_appliance
+
 ; Media & Feeds
 dependencies[] = exclude_node_title
 dependencies[] = media
