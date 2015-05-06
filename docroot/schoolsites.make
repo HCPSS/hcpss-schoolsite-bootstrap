@@ -37,7 +37,7 @@ projects[] = addanother
 ; Media Management
 projects[] = file_entity
 projects[media][version] = "2.0-alpha4"
-projects[] = oembed
+projects[] = media_oembed
 
 ; Feeds: Importing and Management
 projects[] = job_scheduler

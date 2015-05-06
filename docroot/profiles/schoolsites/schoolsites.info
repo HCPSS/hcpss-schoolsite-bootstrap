@@ -58,6 +58,6 @@ dependencies[] = backup_migrate
 dependencies[] = exclude_node_title
 dependencies[] = media
 dependencies[] = media_internet
-dependencies[] = oembed
+dependencies[] = media_oembed
 dependencies[] = feeds
 dependencies[] = feeds_ui
