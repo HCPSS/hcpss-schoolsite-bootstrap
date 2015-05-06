@@ -48,4 +48,6 @@ dependencies[] = token_filter
 ; Media & Feeds
 dependencies[] = exclude_node_title
 dependencies[] = media
+dependencies[] = media_internet
+dependencies[] = oembed
 dependencies[] = feeds

@@ -36,6 +36,7 @@ projects[] = exclude_node_title
 ; Media Management
 projects[] = file_entity
 projects[media][version] = "2.0-alpha4"
+projects[] = oembed
 
 ; Feeds: Importing and Management
 projects[] = job_scheduler
