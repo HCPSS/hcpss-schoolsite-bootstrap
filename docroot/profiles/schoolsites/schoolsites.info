@@ -54,3 +54,4 @@ dependencies[] = media
 dependencies[] = media_internet
 dependencies[] = oembed
 dependencies[] = feeds
+dependencies[] = feeds_ui
