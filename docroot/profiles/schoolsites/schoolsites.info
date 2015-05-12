@@ -11,7 +11,6 @@ dependencies[] = menu
 dependencies[] = number
 dependencies[] = search
 dependencies[] = shortcut
-dependencies[] = taxonomy
 dependencies[] = toolbar
 
 ; Essential Contrib
